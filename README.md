@@ -19,5 +19,5 @@ then open index.html page inside dist folder
 
 ## Built With
 
-[Bootstrap 4](https://getbootstrap.com/) - CSS framework
-[Webpack](https://webpack.github.io/) - Module bundler
+* [Bootstrap 4](https://getbootstrap.com/) - CSS framework
+* [Webpack](https://webpack.github.io/) - Module bundler
