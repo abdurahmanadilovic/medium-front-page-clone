@@ -1,6 +1,6 @@
 # Medium Front Page Clone
 
-Simple front page clone of medium.com website using bootstrap 4
+Simple front page clone of medium.com website, with a focus on responsive design
 
 ## Getting started
 
